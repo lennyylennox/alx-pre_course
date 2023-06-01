@@ -2,5 +2,5 @@
 echo "ALX School is so cool" 
 =======
 #!/bin/bash
- echo "The school is open" 
+ echo "The school is open!" 
 >>>>>>> acf68185884c0eb5a87e3a9f27ddb24131c0f78b
